@@ -52,7 +52,7 @@ data_library <-function() {
     print("Recommended Data Sets")
     print("USArrests, crimtab")
 
-  } else if (X == 4) {
+  } else if (x == 4) {
     x4 <-menu(c("pharmacokinetics", "disease", "infertility"), title="Which do you want to use?")
     if (x4 == 1) {
       print("Recommended Data Sets")
@@ -67,11 +67,11 @@ data_library <-function() {
       print("Type a number from 1 to 6")
     }
 
-  } else if (X == 5) {
+  } else if (x == 5) {
     print("Recommended Data Sets")
     print("LifeCycleSavings, UCBAdmissions, VADeaths, austres,swiss, uspop")
 
-  } else if (X == 6) {
+  } else if (x == 6) {
     print("Recommended Data Sets")
     print("LakeHuron, Nile, rivers")
 
@@ -87,3 +87,6 @@ data_library <-function() {
     print("Type a number from 1 to 6")
   }
 }
+
+
+
