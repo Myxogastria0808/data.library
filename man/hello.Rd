@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{data_library}
+\alias{data_library}
+\title{Dataset Search}
 \usage{
-hello()
+data_library()
 }
 \description{
-Prints 'Hello, world!'.
+Search for datasets in the desired field.
 }
 \examples{
-hello()
+data_library()
 }

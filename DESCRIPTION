@@ -1,11 +1,13 @@
 Package: data.library
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Dataset Search
+Version: 0.0.1.9000
+Author: Yuuki Osada
+Maintainer: Yuuki Osada <r.rstudio.c@gmail.com>
+Description: Search for datasets in the desired field.
+License: MIT
 Encoding: UTF-8
 LazyData: true
+Copyright: Yuuki Osada
+Date: 2022–08–25
+URL: <-あとで＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
