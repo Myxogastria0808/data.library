@@ -32,7 +32,7 @@ data_library <-function() {
 
   } else if (x == 2) {
     x2 <-menu(c("economy", "stock price", "sales", "household budget"), title="Which do you want to use?")
-    if (x1 == 1) {
+    if (x2 == 1) {
       print("Recommended Data Sets")
       print("longley, euro")
     } else if (x2 == 2) {
@@ -87,6 +87,3 @@ data_library <-function() {
     print("Type a number from 1 to 6")
   }
 }
-
-
-
