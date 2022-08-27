@@ -5,7 +5,7 @@ Version: 0.0.1.9000
 Author: Yuuki Osada
 Maintainer: Yuuki Osada <r.rstudio.c@gmail.com>
 Description: Search for datasets in the desired field.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Copyright: Yuuki Osada
